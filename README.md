@@ -1,5 +1,5 @@
 - Hi, I’m Yutong Xia
-- I’m interested in Urban analysis, traffic prediction
+- I’m interested in spatial data analysis
 - I’m currently a mster student at CASA, UCL
 - You can reach me by email: xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
