@@ -1,6 +1,6 @@
 - Hi, I’m Yutong Xia
-- I’m interested in spatial data analysis
-- I’m currently a master student at CASA, UCL
+- I’m interested in urban data analysis
+- I’m an incoming PhD (Data Science) student at NGS, NUS
 - You can reach me by email: xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
 
