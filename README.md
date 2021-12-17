@@ -7,7 +7,7 @@
 - Hi, I’m Yutong Xia
 - I’m interested in urban data analysis and travel behaviour
 - I’m a PhD (Data Science) student at NGS, NUS
-- You can reach me by email: xiayutong618@gmail.com
+- You can reach me by email: yutong.xia@u.nus.edu
 - My homepage is https://yutong-xia.github.io/
 
 <!---
