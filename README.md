@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-xiayutong618@gmail.com-RED?style=flat-square&labelColor=RED&logo=Gmail&logoColor=white&link=mailto:xiayutong618@gmail.com)](mailto:xiayutong618@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-YutongXia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutong-xia/)](https://www.linkedin.com/in/yutong-xia/)
 
-- Hi, I’m Yutong Xia
+- Hi (｡･∀･)ﾉﾞ my name is Yutong Xia
+- I’m currently a PhD (Data Science) student at NGS, NUS
 - I’m interested in urban computing
-- I’m a PhD (Data Science) student at NGS, NUS
 - You can reach me by email: yutong.xia@u.nus.edu, xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
 
