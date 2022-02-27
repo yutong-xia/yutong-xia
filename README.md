@@ -7,7 +7,7 @@
 - Hi, I’m Yutong Xia
 - I’m interested in urban computing
 - I’m a PhD (Data Science) student at NGS, NUS
-- You can reach me by email: yutong.xia@u.nus.edu
+- You can reach me by email: yutong.xia@u.nus.edu, xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
 
 <!---
