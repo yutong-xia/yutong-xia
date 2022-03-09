@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-YutongXia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutong-xia/)](https://www.linkedin.com/in/yutong-xia/)
 
 - Hi (｡･∀･)ﾉﾞ my name is Yutong XIA
-- I’m currently a PhD (Data Science) student at NGS, NUS
+- I’m a PhD student at IDS & NGS, NUS, supervised by Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/~rogerz/).
 - I’m interested in urban computing
 - You can reach me by email: yutong.xia@u.nus.edu, xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
