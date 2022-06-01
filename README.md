@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-xiayutong618@gmail.com-RED?style=flat-square&labelColor=RED&logo=Gmail&logoColor=white&link=mailto:xiayutong618@gmail.com)](mailto:xiayutong618@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-YutongXia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutong-xia/)](https://www.linkedin.com/in/yutong-xia/)
 
-<em>I am new to the field of computing. Any suggestion is welcome XD </em>
+<em> <b> I am new to the field of computing. Any suggestion is welcome XD </b></em>
 
 - Hi (｡･∀･)ﾉﾞ my name is Yutong XIA
 - I’m a first-year PhD student at IDS & NGS, NUS
