@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-xiayutong618@gmail.com-RED?style=flat-square&labelColor=RED&logo=Gmail&logoColor=white&link=mailto:xiayutong618@gmail.com)](mailto:xiayutong618@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-YutongXia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutong-xia/)](https://www.linkedin.com/in/yutong-xia/)
 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
+
 - Hi (｡･∀･)ﾉﾞ my name is Yutong XIA
 - I’m a first-year PhD student at IDS & NGS, NUS
 - I’m interested in urban computing and spatio-temporal data mining
