@@ -25,7 +25,6 @@
 </p>
 
 
-<a href="https://clustrmaps.com/site/1boq8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=huQ3-Fbd2oWWQdh6OinrtIMd81kyJ13XQosMoYmX_Kk&cl=ffffff" /></a>
 
 
 
