@@ -1,6 +1,6 @@
 ### About Me ✨
 
-<img align="right" alt="GIF" src="https://4.bp.blogspot.com/-bXvjRP6Gomc/XFxM5yGHW6I/AAAAAAAvy2U/s9pcUrWTH2wLx-RLlL3xzsQp4RTKymTUgCLcBGAs/s1600/AW3341364_00.gif" width="200" title="hey">
+<!-- <img align="right" alt="GIF" src="https://4.bp.blogspot.com/-bXvjRP6Gomc/XFxM5yGHW6I/AAAAAAAvy2U/s9pcUrWTH2wLx-RLlL3xzsQp4RTKymTUgCLcBGAs/s1600/AW3341364_00.gif" width="200" title="hey"> -->
 
 [![Blog Badge](https://img.shields.io/badge/Web-YutongXia-pink)](https://yutong-xia.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-xiayutong618@gmail.com-RED?style=flat-square&labelColor=RED&logo=Gmail&logoColor=white&link=mailto:xiayutong618@gmail.com)](mailto:xiayutong618@gmail.com)
