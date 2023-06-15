@@ -17,12 +17,12 @@
 - You can reach me by email: yutong.xia@u.nus.edu, xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
 
------
-<p align="center">
+<!-- -----
+ <p align="center">
   <a href="https://github.com/yutong-xia">
     <img src="https://github-readme-stats.vercel.app/api?username=yutong-xia&theme=blue-pink" >
   </a>
-</p>
+</p> -->
 
 
 
