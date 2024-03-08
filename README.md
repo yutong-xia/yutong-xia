@@ -14,7 +14,7 @@
 - Hi (｡･∀･)ﾉﾞ my name is Yutong XIA
 - I’m a PhD student at IDS, NUS
 - I’m interested in urban computing and spatio-temporal data mining
-- You can reach me by email: yutong.xia@u.nus.edu, xiayutong618@gmail.com
+- You can reach me by email: yutong.xia@u.nus.edu, yutong.x@outlook.com, xiayutong618@gmail.com
 - My homepage is https://yutong-xia.github.io/
 
 <!-- -----
