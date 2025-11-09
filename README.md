@@ -7,13 +7,16 @@
 <!-- [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)]([https://GitHub.com/Naereen/StrapDown.js/watchers/](https://github.com/yutong-xia)) -->
 
 
-- Hi (｡･∀･)ﾉﾞ my name is Yutong XIA
+- Hi, my name is Yutong XIA
 - I’m a PhD student at IDS, NUS
 - I’m interested in urban computing and spatio-temporal data mining
-- You can reach me by email: yutong.xia@u.nus.edu, yutong.x@outlook.com, xiayutong618@gmail.com
+- You can reach me by email: yutong.xia@u.nus.edu, yutong.x@outlook.com
 - My homepage is https://yutong-xia.github.io/
 
 
+<p align="left">
+<img alt="yutong-xia's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=yutong-xia&show_icons=true&include_all_commits=true">
+</p>
 
 
 
