@@ -14,10 +14,4 @@
 - My homepage is https://yutong-xia.github.io/
 
 
-<p align="left">
-<img alt="yutong-xia's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=yutong-xia&show_icons=true&include_all_commits=true">
-</p>
-
-
-
 
