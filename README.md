@@ -8,8 +8,8 @@
 
 
 - Hi, my name is Yutong XIA
-- I’m a PhD student at IDS, NUS
-- I’m interested in urban computing and spatio-temporal data mining
+- I’m a Research Fellow at SoC, NUS
+- I’m interested in urban computing and causality AI for spatio-temporal data mining
 - You can reach me by email: yutong.xia@u.nus.edu, yutong.x@outlook.com
 - My homepage is https://yutong-xia.github.io/
 
